@@ -1,0 +1,14 @@
+# ninja log v5
+1	353	6971562910677979	CMakeFiles/cmake-Task02.dir/N05_HW10_Task02.cpp.obj	7d1c1c69bef6390b
+10	685	6971562913986673	CMakeFiles/cmake-Task02.dir/Rect.cpp.obj	1eaac70214905e3f
+6	648	6971562913648035	CMakeFiles/cmake-Task02.dir/Parallelogram.cpp.obj	aeeabc72a521005a
+3	649	6971562913648035	CMakeFiles/cmake-Task02.dir/Equilateral_Triangle.cpp.obj	850e4481cf380b99
+17	692	6971562914079364	CMakeFiles/cmake-Task02.dir/Shape.cpp.obj	65ea20e91b93ae97
+23	665	6971562913796006	CMakeFiles/cmake-Task02.dir/Square_Triangle.cpp.obj	2ee71ec2a9f5bc42
+20	677	6971562913942241	CMakeFiles/cmake-Task02.dir/Square.cpp.obj	d1160290ffbba5ef
+5	683	6971562913986673	CMakeFiles/cmake-Task02.dir/Isosceles_Triangle.cpp.obj	a836a2618eb2bd5a
+14	688	6971562914065385	CMakeFiles/cmake-Task02.dir/Rhombus.cpp.obj	6f0fbc9da9bbc666
+8	692	6971562914079364	CMakeFiles/cmake-Task02.dir/Poly.cpp.obj	1b714d9c766a7ed0
+26	692	6971562914089472	CMakeFiles/cmake-Task02.dir/Triangle.cpp.obj	ab7d9ade634804d8
+1	264	6971567751670654	CMakeFiles/cmake-Task02.dir/N05_HW10_Task02.cpp.obj	7d1c1c69bef6390b
+264	460	6971567753453069	cmake-Task02.exe	6888307512d83129

@@ -1,0 +1,3 @@
+D:/coding/Netology05_HW10/N05_HW10_Task01/out/build/x64-Debug/CMakeFiles/cmake-Task01.dir
+D:/coding/Netology05_HW10/N05_HW10_Task01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/coding/Netology05_HW10/N05_HW10_Task01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
